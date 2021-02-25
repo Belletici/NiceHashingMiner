@@ -1,0 +1,2 @@
+# NiceHashingMiner
+Nice Hashing Miner
